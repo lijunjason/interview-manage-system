@@ -20,9 +20,6 @@ The web management system solution based on Vue3 and ElementPlus。[live demo](h
 
 Please check the version of vue2 in [tag V4.2.0](https://github.com/lin-xin/vue-manage-system/tree/V4.2.0)
 
-## Donation
-
-![WeChat](https://lin-xin.gitee.io/images/weixin.jpg)
 
 ## Preface
 
@@ -130,7 +127,3 @@ A desktop component library based on vue.js2.0 . Github : [element](http://eleme
 ### Login
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms3.png)
-
-## License
-
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
